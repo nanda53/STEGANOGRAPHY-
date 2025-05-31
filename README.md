@@ -18,6 +18,7 @@ This project allows you to **hide and retrieve encrypted messages inside images*
 ## 📁 Folder Structure
 
 📁 Steganography
+
 ├── img.png # Input image for encryption
 
 ├── encryption.png # Output image with hidden message
