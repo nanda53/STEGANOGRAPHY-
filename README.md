@@ -19,6 +19,9 @@ This project allows you to **hide and retrieve encrypted messages inside images*
 
 📁 Steganography
 ├── img.png # Input image for encryption
+
 ├── encryption.png # Output image with hidden message
+
 ├── steganography.py # Main Python script
+
 └── README.md # Project documentation
